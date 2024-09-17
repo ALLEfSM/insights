@@ -34,7 +34,7 @@ O Projeto tem como objetivo desenvolver um sistema avançado para análise de fe
 O Público-alvo do Projeto DaVinci Insights visa atender empresas que buscam aprimorar seu relacionamento com os clientes, compreendendo suas percepções sobre produtos específicos. Ao entender essas opiniões, as empresas podem identificar e resolver os problemas que enfrentam no mercado, permitindo uma abordagem mais focada e eficaz para atender às necessidades do cliente.
 
 ## Pitch Projeto
-<p align="center"> <a href="https://www.youtube.com/playlist?list=PLtsjpUU5tm1qCcwibH5k0_9ECj-kHGzVx">Vídeo PITCH de apresentação do projeto</a></p>
+<p align="center"> <a href="https://www.youtube.com/playlist?list=PLtsjpUU5tm1qCcwibH5k0_9ECj-kHGzVx">Vídeo da demonstração do projeto</a></p>
 
 ## Repositório:
 
